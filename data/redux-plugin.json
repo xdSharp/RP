@@ -1,0 +1,56 @@
+{
+  "social_links_menu": "273",
+  "share_buttons_menu": "21",
+  "compare_enabled": "yes",
+  "compare_page": "130",
+  "compare_rows": "rating, availability, price, add_to_cart, sku, weight, dimensions, attributes",
+  "compare_excluded_attributes": "",
+  "wishlist_enabled": "yes",
+  "wishlist_page": "128",
+  "brand_attribute": "brand",
+  "global_featured_attributes": [],
+  "autoparts_features": "yes",
+  "garage_page": "yes",
+  "vehicle_attribute": "compatibility",
+  "search_vehicles_by_vin": "no",
+  "vehicle_fields": [
+    {
+      "type": "year",
+      "order": "desk",
+      "slug": "produced",
+      "label": "Year",
+      "placeholder": "Select Year"
+    },
+    {
+      "type": "text",
+      "order": "ask",
+      "slug": "brand",
+      "label": "Brand",
+      "placeholder": "Select Brand"
+    },
+    {
+      "type": "text",
+      "order": "ask",
+      "slug": "model",
+      "label": "Model",
+      "placeholder": "Select Model"
+    },
+    {
+      "type": "text",
+      "order": "ask",
+      "slug": "modification",
+      "label": "Engine",
+      "placeholder": "Select Engine"
+    }
+  ],
+  "vehicle_name": "%produced% %brand% %model%",
+  "vehicle_description": "%modification%",
+  "vehicle_picker_group_same_values": "yes",
+  "search_by_sku": "yes",
+  "search_by_sku_match": "starts",
+  "search_by_attributes": [
+    "part-number"
+  ],
+  "search_by_attributes_starts": [],
+  "search_by_attributes_contains": []
+}

@@ -1,0 +1,1356 @@
+# Copyright (C) 2022 RedParts
+# This file is distributed under the same license as the RedParts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RedParts\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/theme/404.php:21
+msgid "Oops! Error 404"
+msgstr ""
+
+#: src/theme/404.php:25
+msgid "Page Not Found"
+msgstr ""
+
+#: src/theme/404.php:30
+msgid "We can't seem to find the page you're looking for.<br>Try to use the search."
+msgstr ""
+
+#: src/theme/404.php:37, src/theme/searchform.php:140
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: src/theme/404.php:44
+msgid "Search products&hellip;"
+msgstr ""
+
+#: src/theme/404.php:49, src/theme/searchform.php:211
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: src/theme/404.php:55
+msgid "Or go to the home page to start over."
+msgstr ""
+
+#: src/theme/404.php:62
+msgid "Go To Home Page"
+msgstr ""
+
+#. translators: %s number of comments.
+#: src/theme/comments.php:31
+msgid "Comment (%s)"
+msgid_plural "Comments (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/theme/comments.php:52, src/theme/inc/class-product.php:515, src/theme/inc/class-shop.php:511, src/theme/partials/blog/content-archive.php:60
+msgid "Previous"
+msgstr ""
+
+#: src/theme/comments.php:53, src/theme/inc/class-product.php:516, src/theme/inc/class-shop.php:512, src/theme/partials/blog/content-archive.php:61
+msgid "Next"
+msgstr ""
+
+#: src/theme/comments.php:73, src/theme/partials/blog/post-header.php:67
+msgid "Write A Comment"
+msgstr ""
+
+#: src/theme/comments.php:76
+msgid "Cancel"
+msgstr ""
+
+#: src/theme/comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s search query.
+#: src/theme/functions.php:338
+msgid "Search results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: src/theme/inc/class-product-card.php:262
+msgid "SKU: "
+msgstr ""
+
+#. translators: %s: rating
+#: src/theme/inc/class-product-card.php:492
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: src/theme/inc/class-product-card.php:508
+msgid "No Reviews"
+msgstr ""
+
+#: src/theme/inc/class-product-card.php:506
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/theme/inc/class-product.php:232
+msgid "Key Features:"
+msgstr ""
+
+#: src/theme/inc/class-product.php:238
+msgid "See Full Specification"
+msgstr ""
+
+#: src/theme/inc/class-product.php:253
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/theme/inc/class-product.php:333
+msgid "Write A Review"
+msgstr ""
+
+#. translators: %s: number of reviews.
+#: src/theme/inc/class-product.php:349
+msgid "%s Customer Review"
+msgid_plural "%s Customer Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/theme/inc/class-product.php:358
+msgid "Specification"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:184
+msgid "RedParts Theme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:185
+msgid "RedParts Theme Settings"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:260, src/theme/inc/class-settings.php:1604
+msgid "Footer"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:269
+msgid "Widget Classes"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:270
+msgid "Comma-separated CSS classes to be applied to the footer widget containers."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:278
+msgid "Copyright"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:285
+msgid "Payments Image"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:295
+msgid "Mobile"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:303
+msgid "Mobile header logo"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:305
+msgid "Use this option to specify a different logo for the mobile header."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:310, src/theme/inc/class-settings.php:1951
+msgid "Show wishlist indicator"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:312, src/theme/inc/class-settings.php:322, src/theme/inc/class-settings.php:332, src/theme/inc/class-settings.php:366, src/theme/inc/class-settings.php:376, src/theme/inc/class-settings.php:398, src/theme/inc/class-settings.php:408, src/theme/inc/class-settings.php:419, src/theme/inc/class-settings.php:430, src/theme/inc/class-settings.php:441, src/theme/inc/class-settings.php:464, src/theme/inc/class-settings.php:596, src/theme/inc/class-settings.php:618, src/theme/inc/class-settings.php:891, src/theme/inc/class-settings.php:1339, src/theme/inc/class-settings.php:1414, src/theme/inc/class-settings.php:1851, src/theme/inc/class-settings.php:1912, src/theme/inc/class-settings.php:1922, src/theme/inc/class-settings.php:1932, src/theme/inc/class-settings.php:1943, src/theme/inc/class-settings.php:1953, src/theme/inc/class-settings.php:1963, src/theme/inc/class-settings.php:1973, src/theme/inc/class-settings.php:1983, src/theme/inc/class-settings.php:2019, src/theme/inc/class-settings.php:2134, src/theme/inc/class-settings.php:2202, src/theme/inc/class-settings.php:2231
+msgid "Yes"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:313, src/theme/inc/class-settings.php:323, src/theme/inc/class-settings.php:333, src/theme/inc/class-settings.php:367, src/theme/inc/class-settings.php:377, src/theme/inc/class-settings.php:399, src/theme/inc/class-settings.php:409, src/theme/inc/class-settings.php:420, src/theme/inc/class-settings.php:431, src/theme/inc/class-settings.php:442, src/theme/inc/class-settings.php:465, src/theme/inc/class-settings.php:595, src/theme/inc/class-settings.php:619, src/theme/inc/class-settings.php:892, src/theme/inc/class-settings.php:1338, src/theme/inc/class-settings.php:1415, src/theme/inc/class-settings.php:1852, src/theme/inc/class-settings.php:1913, src/theme/inc/class-settings.php:1923, src/theme/inc/class-settings.php:1933, src/theme/inc/class-settings.php:1944, src/theme/inc/class-settings.php:1954, src/theme/inc/class-settings.php:1964, src/theme/inc/class-settings.php:1974, src/theme/inc/class-settings.php:1984, src/theme/inc/class-settings.php:2020, src/theme/inc/class-settings.php:2135, src/theme/inc/class-settings.php:2201, src/theme/inc/class-settings.php:2232
+msgid "No"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:320, src/theme/inc/class-settings.php:1961
+msgid "Show account indicator"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:330, src/theme/inc/class-settings.php:1971
+msgid "Show cart indicator"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:339, src/theme/inc/class-settings.php:2055
+msgid "Max logo width (px)"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:347, src/theme/inc/class-settings.php:2063
+msgid "Max logo height (px)"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:357
+msgid "Mobile menu switchers"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:363
+msgid "Show language switcher"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:364, src/theme/inc/class-settings.php:1941
+msgid "Does not affect anything if WPML plugin is not installed."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:374
+msgid "Show currency switcher"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:390
+msgid "Mobile menu indicators"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:396, src/theme/inc/class-settings.php:462, src/theme/inc/class-settings.php:2017, src/theme/inc/class-shop.php:396
+msgid "Show"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:406
+msgid "Show wishlist"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:417
+msgid "Show account"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:428
+msgid "Show cart"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:439
+msgid "Show garage"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:456
+msgid "Mobile menu contacts"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:472, src/theme/inc/class-settings.php:2027
+msgid "Title"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:473, src/theme/inc/class-settings.php:2028
+msgid "800 060-0730"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:479, src/theme/inc/class-settings.php:2035
+msgid "Subtitle"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:480
+msgid "Free call 24/7"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:486, src/theme/inc/class-settings.php:2043
+msgid "URL"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:503
+msgid "Blog"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:510
+msgid "Blog layout"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:512, src/theme/inc/class-settings.php:1903
+msgid "Classic"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:513, src/theme/inc/class-settings.php:2144, src/theme/inc/class-shop.php:292, src/theme/inc/class-shop.php:298
+msgid "Grid"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:514, src/theme/inc/class-settings.php:2146, src/theme/inc/class-shop.php:304
+msgid "List"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:521
+msgid "Blog sidebar position"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:523, src/theme/inc/class-settings.php:540, src/theme/inc/class-settings.php:571, src/theme/inc/class-settings.php:2116
+msgid "Left"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:524, src/theme/inc/class-settings.php:541, src/theme/inc/class-settings.php:572, src/theme/inc/class-settings.php:2117
+msgid "Right"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:525, src/theme/inc/class-settings.php:542, src/theme/inc/class-settings.php:573
+msgid "Full Width"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:532
+msgid "Single Post"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:538
+msgid "Post sidebar position"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:562, src/theme/woocommerce/loop/loop-start.php:58
+msgid "Product"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:569, src/theme/inc/class-settings.php:2114
+msgid "Sidebar position"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:580
+msgid "Meta attributes"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:581
+msgid "Comma-separated attribute slugs."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:592, src/theme/inc/class-settings.php:2198
+msgid "Show compatibility badge"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:593
+msgid "Allows to hide the compatibility badge on the product page."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:610
+msgid "Typography"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:617
+msgid "Use default fonts"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:625
+msgid "Primary Font"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:645
+msgid "Headers Font"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:670
+msgid "Colors"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:680
+msgid "General"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:687
+msgid "Override Elementor Primary Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:688
+msgid "If \"On\", then the \"Elementor Primary Color\" will be used instead of the \"Theme Scheme Main Color\""
+msgstr ""
+
+#: src/theme/inc/class-settings.php:695, src/theme/inc/class-settings.php:944, src/theme/inc/class-settings.php:992, src/theme/inc/class-settings.php:1040, src/theme/inc/class-settings.php:1096, src/theme/inc/class-settings.php:1183, src/theme/inc/class-settings.php:1214, src/theme/inc/class-settings.php:1259, src/theme/inc/class-settings.php:1307, src/theme/inc/class-settings.php:1365, src/theme/inc/class-settings.php:1436, src/theme/inc/class-settings.php:1519, src/theme/inc/class-settings.php:1564, src/theme/inc/class-settings.php:1614
+msgid "Theme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:701
+msgid "Theme Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:702
+msgid "Defines the primary color of the theme. Choose one of the proposed ones or define your own by choosing [Custom]."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:707
+msgid "Red"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:708
+msgid "Blue"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:709
+msgid "Green"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:710
+msgid "Orange"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:711
+msgid "Violet"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:712, src/theme/inc/class-settings.php:756, src/theme/inc/class-settings.php:800, src/theme/inc/class-settings.php:844, src/theme/inc/class-settings.php:948, src/theme/inc/class-settings.php:996, src/theme/inc/class-settings.php:1044, src/theme/inc/class-settings.php:1100, src/theme/inc/class-settings.php:1142, src/theme/inc/class-settings.php:1187, src/theme/inc/class-settings.php:1218, src/theme/inc/class-settings.php:1263, src/theme/inc/class-settings.php:1311, src/theme/inc/class-settings.php:1369, src/theme/inc/class-settings.php:1440, src/theme/inc/class-settings.php:1478, src/theme/inc/class-settings.php:1523, src/theme/inc/class-settings.php:1568, src/theme/inc/class-settings.php:1618, src/theme/inc/class-settings.php:1666, src/theme/inc/class-settings.php:1725
+msgid "[Custom]"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:719
+msgid "Theme Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:720, src/theme/inc/class-settings.php:764, src/theme/inc/class-settings.php:808, src/theme/inc/class-settings.php:852
+msgid "Typically background color."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:729
+msgid "Theme Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:730, src/theme/inc/class-settings.php:774, src/theme/inc/class-settings.php:818, src/theme/inc/class-settings.php:862
+msgid "Typically font color."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:746, src/theme/inc/class-settings.php:946, src/theme/inc/class-settings.php:994, src/theme/inc/class-settings.php:1042, src/theme/inc/class-settings.php:1098, src/theme/inc/class-settings.php:1185, src/theme/inc/class-settings.php:1216, src/theme/inc/class-settings.php:1261, src/theme/inc/class-settings.php:1309, src/theme/inc/class-settings.php:1367, src/theme/inc/class-settings.php:1438, src/theme/inc/class-settings.php:1521, src/theme/inc/class-settings.php:1566, src/theme/inc/class-settings.php:1616
+msgid "Light"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:752
+msgid "Light Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:753
+msgid "By default is used as a color for the Header and Topbar."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:755, src/theme/inc/class-settings.php:799, src/theme/inc/class-settings.php:843, src/theme/inc/class-settings.php:1141, src/theme/inc/class-settings.php:1477, src/theme/inc/class-settings.php:1665, src/theme/inc/class-settings.php:1724
+msgid "[Default]"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:763
+msgid "Light Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:773
+msgid "Light Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:790, src/theme/inc/class-settings.php:945, src/theme/inc/class-settings.php:993, src/theme/inc/class-settings.php:1041, src/theme/inc/class-settings.php:1097, src/theme/inc/class-settings.php:1184, src/theme/inc/class-settings.php:1215, src/theme/inc/class-settings.php:1260, src/theme/inc/class-settings.php:1308, src/theme/inc/class-settings.php:1366, src/theme/inc/class-settings.php:1437, src/theme/inc/class-settings.php:1520, src/theme/inc/class-settings.php:1565, src/theme/inc/class-settings.php:1615
+msgid "Dark"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:796
+msgid "Dark Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:797, src/theme/inc/class-settings.php:841
+msgid "By default is used as a color for the Departments Menu and Buttons in the hover state."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:807
+msgid "Dark Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:817
+msgid "Dark Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:834, src/theme/inc/class-settings.php:947, src/theme/inc/class-settings.php:995, src/theme/inc/class-settings.php:1043, src/theme/inc/class-settings.php:1099, src/theme/inc/class-settings.php:1186, src/theme/inc/class-settings.php:1217, src/theme/inc/class-settings.php:1262, src/theme/inc/class-settings.php:1310, src/theme/inc/class-settings.php:1368, src/theme/inc/class-settings.php:1439, src/theme/inc/class-settings.php:1522, src/theme/inc/class-settings.php:1567, src/theme/inc/class-settings.php:1617
+msgid "Accent"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:840
+msgid "Accent Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:851
+msgid "Accent Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:861
+msgid "Accent Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:882
+msgid "Desktop Header"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:889, src/theme/inc/class-settings.php:1412
+msgid "Use Predefined Variant"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:899, src/theme/inc/class-settings.php:914, src/theme/inc/class-settings.php:1422
+msgid "Variant"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:905, src/theme/inc/class-settings.php:920, src/theme/inc/class-settings.php:1425
+msgid "One"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:906, src/theme/inc/class-settings.php:921, src/theme/inc/class-settings.php:1426
+msgid "Two"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:907, src/theme/inc/class-settings.php:922
+msgid "Three"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:923
+msgid "Four"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:924
+msgid "Five"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:932
+msgid "Left Topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:942
+msgid "Left Topbar Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:955
+msgid "Left Topbar Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:964
+msgid "Left Topbar Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:980
+msgid "Right Topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:990
+msgid "Right Topbar Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1003
+msgid "Right Topbar Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1012
+msgid "Right Topbar Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1028
+msgid "Topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1038
+msgid "Topbar Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1051
+msgid "Topbar Style"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1052
+msgid "This option allows to specify how to style the top bar when its background and header background match."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1054
+msgid "Mute background"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1055
+msgid "Show bottom border"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1062
+msgid "Topbar Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1071
+msgid "Topbar Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1087, src/theme/inc/class-settings.php:1892
+msgid "Header"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1094
+msgid "Header Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1107
+msgid "Header Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1116
+msgid "Header Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1132
+msgid "Logo"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1139
+msgid "Logo Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1149
+msgid "Logo Primary Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1158
+msgid "Logo Secondary Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1174
+msgid "Departments Button"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1181
+msgid "Departments Button Normal Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1194
+msgid "Departments Button Normal Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1203
+msgid "Departments Button Normal Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1212
+msgid "Departments Button Hover Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1225
+msgid "Departments Button Hover Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1234
+msgid "Departments Button Hover Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1250
+msgid "Indicator Counter"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1257
+msgid "Indicator Counter Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1270
+msgid "Indicator Counter Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1279
+msgid "Indicator Counter Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1295
+msgid "Navbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1305
+msgid "Navbar Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1318
+msgid "Navbar Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1327
+msgid "Navbar Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1336
+msgid "Stretch"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1353
+msgid "Vehicle Button"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1363
+msgid "Vehicle Button Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1376
+msgid "Vehicle Button Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1385
+msgid "Vehicle Button Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1405
+msgid "Mobile Header"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1434
+msgid "Mobile Header Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1448
+msgid "Mobile Header Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1457
+msgid "Mobile Header Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1468
+msgid "Mobile Logo"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1475
+msgid "Mobile Logo Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1485
+msgid "Mobile Logo Primary Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1494
+msgid "Mobile Logo Secondary Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1510
+msgid "Mobile Vehicle Button"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1517
+msgid "Mobile Vehicle Button Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1530
+msgid "Mobile Vehicle Button Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1539
+msgid "Mobile Vehicle Button Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1555
+msgid "Mobile Indicator Counter"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1562
+msgid "Mobile Indicator Counter Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1575
+msgid "Mobile Indicator Counter Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1584
+msgid "Mobile Indicator Counter Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1612
+msgid "Footer Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1625
+msgid "Footer Scheme Main Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1634
+msgid "Footer Scheme Opposite Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1649
+msgid "Buttons"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1657
+msgid "Primary Button"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1663
+msgid "Primary Button Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1673
+msgid "Primary Button Background Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1682
+msgid "Primary Button Font Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1691
+msgid "Primary Button Hover Background Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1700
+msgid "Primary Button Hover Font Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1716
+msgid "Secondary Button"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1722
+msgid "Secondary Button Scheme"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1732
+msgid "Secondary Button Background Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1741
+msgid "Secondary Button Font Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1750
+msgid "Secondary Button Hover Background Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1759
+msgid "Secondary Button Hover Font Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1779
+msgid "Links"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1786
+msgid "Link Color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1799
+msgid "Prices"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1806
+msgid "Price color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1816
+msgid "New price color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1826
+msgid "Old price color"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1841
+msgid "Miscellaneous"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1848
+msgid "Enable demo mode"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1849
+msgid "This setting is only necessary to demonstrate the capabilities of the theme. On a real site, it should be disabled. If enabled, the URL parameter redparts_demo_options allows to override some settings."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1864, src/theme/inc/class-settings.php:1871
+msgid "Custom JS"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1900
+msgid "Layout"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1902
+msgid "Spaceship"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1910
+msgid "Show topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1920
+msgid "Show compare in the topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1930
+msgid "Show currency switcher in the topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1940
+msgid "Show language switcher in the topbar"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1981
+msgid "Show departments menu"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1991
+msgid "Departments button label"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1992, src/theme/partials/desktop-header/departments.php:21
+msgid "Shop By Category"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1997
+msgid "Search default placeholder"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:1998, src/theme/inc/class-sputnik.php:180, src/theme/searchform.php:66
+msgid "Enter Keyword or Part Number"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2003
+msgid "Search placeholder when vehicle/category is selected"
+msgstr ""
+
+#. translators: %s vehicle or category name.
+#. translators: %s vehicle or category name.
+#. translators: %s vehicle or category name.
+#: src/theme/inc/class-settings.php:2005, src/theme/inc/class-sputnik.php:173, src/theme/searchform.php:65
+msgid "Search for %s"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2010
+msgid "Navbar contacts"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2036
+msgid "Call Us"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2084
+msgid "Shop"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2091
+msgid "Shop layout"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2093
+msgid "Sidebar 3 columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2094
+msgid "Sidebar 4 columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2095
+msgid "Full width 4 columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2096
+msgid "Full width 5 columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2097
+msgid "Full width 6 columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2104
+msgid "Mobile grid columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2106
+msgid "1 column"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2107
+msgid "2 columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2124
+msgid "Number of subcategory columns"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2125
+msgid "Maximum 7 for layouts with sidebar and 10 without sidebar."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2132
+msgid "Show subcategory thumbnails"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2142
+msgid "Default view mode"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2145
+msgid "Grid with features"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2147, src/theme/inc/class-shop.php:310
+msgid "Table"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2154
+msgid "Products per page"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2161
+msgid "Products per page variations"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2162
+msgid "Comma-separated numbers."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2169
+msgid "Product card content in the grid with features view mode"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2171, src/theme/inc/class-settings.php:2183
+msgid "Featured attributes"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2172, src/theme/inc/class-settings.php:2184
+msgid "Description"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2173, src/theme/inc/class-settings.php:2185
+msgid "Featured attributes otherwise description"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2174, src/theme/inc/class-settings.php:2186
+msgid "Description otherwise featured attributes"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2181
+msgid "Product card content in the list view mode"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2199
+msgid "Allows to hide the compatibility badge on the shop page and product cards."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2220
+msgid "Performance"
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2221
+msgid "Settings affecting performance."
+msgstr ""
+
+#: src/theme/inc/class-settings.php:2229
+msgid "Enable lazy loading megamenus"
+msgstr ""
+
+#: src/theme/inc/class-shop.php:260, src/theme/inc/class-shop.php:326
+msgid "Filters"
+msgstr ""
+
+#: src/theme/inc/class-shop.php:446, src/theme/inc/class-shop.php:424
+msgid "Active Filters"
+msgstr ""
+
+#: src/theme/inc/class-sputnik.php:114
+msgid "Remove"
+msgstr ""
+
+#: src/theme/inc/class-sputnik.php:160
+msgid "Close"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:157
+msgctxt "Admin"
+msgid "Main"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:158
+msgctxt "Admin"
+msgid "Topbar Start"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:159
+msgctxt "Admin"
+msgid "Topbar End"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:160
+msgctxt "Admin"
+msgid "Departments"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:161
+msgctxt "Admin"
+msgid "Mobile Menu"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:173
+msgctxt "Admin"
+msgid "Footer Widgets"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:175
+msgctxt "Admin"
+msgid "Add three widgets to the site footer."
+msgstr ""
+
+#: src/theme/inc/class-theme.php:186
+msgctxt "Admin"
+msgid "Blog Sidebar"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:188
+msgctxt "Admin"
+msgid "Widgets in this area will be shown in the blog pages."
+msgstr ""
+
+#: src/theme/inc/class-theme.php:199
+msgctxt "Admin"
+msgid "Shop Filters"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:201
+msgctxt "Admin"
+msgid "Add product filters widgets here."
+msgstr ""
+
+#: src/theme/inc/class-theme.php:212
+msgctxt "Admin"
+msgid "Shop Sidebar"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:214
+msgctxt "Admin"
+msgid "Widgets in this area will be shown in the shop pages."
+msgstr ""
+
+#: src/theme/inc/class-theme.php:225
+msgctxt "Admin"
+msgid "Product Sidebar"
+msgstr ""
+
+#: src/theme/inc/class-theme.php:227, src/theme/inc/class-theme.php:240
+msgctxt "Admin"
+msgid "Widgets in this area will be shown in the product pages."
+msgstr ""
+
+#: src/theme/inc/class-theme.php:238
+msgctxt "Admin"
+msgid "Product Alternative Sidebar"
+msgstr ""
+
+#: src/theme/inc/class-woocommerce.php:307
+msgid "Reset your password"
+msgstr ""
+
+#: src/theme/inc/class-woocommerce.php:322
+msgid "Change your password"
+msgstr ""
+
+#: src/theme/inc/class-woocommerce.php:374
+msgid "Sale"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post. Only visible to screen readers
+#: src/theme/partials/blog/content-single.php:29, src/theme/template-document.php:50
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: src/theme/partials/blog/content-single.php:45, src/theme/partials/page-content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: src/theme/partials/blog/content-single.php:60
+msgid "Tags:"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: src/theme/partials/blog/post-card.php:58
+msgid ", "
+msgstr ""
+
+#. translators: %s Comments count.
+#: src/theme/partials/blog/post-card.php:117
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/theme/partials/blog/post-card.php:137
+msgid "Read More"
+msgstr ""
+
+#: src/theme/partials/blog/post-header.php:29
+msgid "Posted in:"
+msgstr ""
+
+#. translators: %s: post author.
+#: src/theme/partials/blog/post-header.php:44
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: src/theme/partials/blog/post-header.php:63
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/theme/partials/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: src/theme/partials/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: src/theme/partials/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: src/theme/partials/desktop-header/departments.php:20, src/theme/partials/mobile-header/menu.php:69
+msgid "Menu"
+msgstr ""
+
+#: src/theme/partials/desktop-header/indicators/account.php:49
+msgid "Hello, Log In"
+msgstr ""
+
+#: src/theme/partials/desktop-header/indicators/account.php:52
+msgid "My Account"
+msgstr ""
+
+#: src/theme/partials/desktop-header/indicators/cart.php:39
+msgid "Shopping Cart"
+msgstr ""
+
+#: src/theme/partials/desktop-header/topbar.php:82
+msgid "Compare:"
+msgstr ""
+
+#: src/theme/partials/desktop-header/topbar.php:93
+msgid "Currency:"
+msgstr ""
+
+#: src/theme/partials/desktop-header/topbar.php:120
+msgid "Language:"
+msgstr ""
+
+#: src/theme/partials/mobile-header/menu.php:80, src/theme/partials/mobile-header/menu.php:87, src/theme/partials/mobile-header/menu.php:101
+msgid "Language"
+msgstr ""
+
+#: src/theme/partials/mobile-header/menu.php:126, src/theme/partials/mobile-header/menu.php:147
+msgid "Currency"
+msgstr ""
+
+#: src/theme/partials/mobile-menu/indicators/account.php:25
+msgid "Account"
+msgstr ""
+
+#: src/theme/partials/mobile-menu/indicators/cart.php:28
+msgid "Cart"
+msgstr ""
+
+#: src/theme/partials/mobile-menu/indicators/garage.php:37
+msgid "Garage"
+msgstr ""
+
+#: src/theme/partials/mobile-menu/indicators/wishlist.php:38
+msgid "Wishlist"
+msgstr ""
+
+#: src/theme/searchform.php:56, src/theme/searchform.php:61
+msgid "Search&hellip;"
+msgstr ""
+
+#. translators: %s search category.
+#: src/theme/searchform.php:60
+msgid "Search in \"%s\""
+msgstr ""
+
+#: src/theme/searchform.php:84
+msgid "All Categories"
+msgstr ""
+
+#: src/theme/searchform.php:178
+msgid "Search in:"
+msgstr ""
+
+#: src/theme/searchform.php:170
+msgid "Select Vehicle"
+msgstr ""
+
+#: src/theme/searchform.php:168
+msgid "Vehicle"
+msgstr ""
+
+#: src/theme/searchform.php:246
+msgid "Products"
+msgstr ""
+
+#: src/theme/searchform.php:273
+msgid "Select a vehicle to find exact fit parts"
+msgstr ""
+
+#: src/theme/searchform.php:280
+msgid "Add A Vehicle"
+msgstr ""
+
+#: src/theme/searchform.php:302
+msgid "Back to vehicles list"
+msgstr ""
+
+#: src/theme/template-document.php:3
+msgid "Document"
+msgstr ""
+
+#. translators: %s: Products count.
+#: src/theme/woocommerce/archive-product.php:100
+msgid "<span class=\"value\">%s</span> <span class=\"label\">Product</span>"
+msgid_plural "<span class=\"value\">%s</span> <span class=\"label\">Products</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Quantity.
+#: src/theme/woocommerce/global/quantity-input.php:40
+msgid "%s quantity"
+msgstr ""
+
+#: src/theme/woocommerce/global/quantity-input.php:40, src/theme/woocommerce/global/quantity-input.php:44
+msgid "Quantity"
+msgstr ""
+
+#: src/theme/woocommerce/global/quantity-input.php:60
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: src/theme/woocommerce/loop/loop-start.php:52
+msgid "Image"
+msgstr ""
+
+#: src/theme/woocommerce/loop/loop-start.php:55, src/theme/woocommerce/single-product/meta.php:39
+msgid "SKU"
+msgstr ""
+
+#: src/theme/woocommerce/loop/loop-start.php:62
+msgid "Rating"
+msgstr ""
+
+#: src/theme/woocommerce/loop/loop-start.php:66
+msgid "Price"
+msgstr ""
+
+#: src/theme/woocommerce/loop/orderby.php:25
+msgid "Shop order"
+msgstr ""
+
+#. translators: 1: order number 2: order date 3: order status
+#: src/theme/woocommerce/myaccount/view-order.php:32
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: src/theme/woocommerce/myaccount/view-order.php:45
+msgid "Order updates"
+msgstr ""
+
+#: src/theme/woocommerce/myaccount/view-order.php:51
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: src/theme/woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: src/theme/woocommerce/single-product/related.php:34
+msgid "Related products"
+msgstr ""
+
+#: src/theme/woocommerce/single-product/up-sells.php:34
+msgid "You may also like&hellip;"
+msgstr ""

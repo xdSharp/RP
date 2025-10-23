@@ -1,0 +1,16 @@
+<wpml-config>
+    <admin-texts>
+        <key name="redparts_settings">
+            <key name="header_departments_button_label" />
+            <key name="header_search_default_placeholder" />
+            <key name="header_search_placeholder" />
+            <key name="footer_copyright" />
+            <key name="mobile_menu_contacts_title" />
+            <key name="mobile_menu_contacts_subtitle" />
+            <key name="mobile_menu_contacts_url" />
+        </key>
+    </admin-texts>
+    <custom-fields>
+        <custom-field action="translate" style="line" label="Document subtitle">redparts_subtitle</custom-field>
+    </custom-fields>
+</wpml-config>
